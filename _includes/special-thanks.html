@@ -1,7 +1,9 @@
-{% if site.special %}
+{% if site.appreciaion-list %}
 <hr>
 <h5>Special Thanks</h5>
-<ul class="list-inline">  
-  <li><a href="{{site.special.href}}">{{site.special.title}}</a></li>  
+<ul class="list-inline">
+  {% for person in site.appreciation-list %}
+  <li><a href="{{person.href}}">{{person.title}}</a></li> 
+  {% endfor %}
 </ul>
 {% endif %}
