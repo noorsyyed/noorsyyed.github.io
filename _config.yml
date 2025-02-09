@@ -1,9 +1,9 @@
 # Site settings
 title: Tech Reflections
 SEOTitle: Tech Reflections Blog | noor's Blog
-header-img: svg/home-bg.svg  # updated from img/home-bg.jpg
+header-img: svg/banner.svg
 email: syed.noor@live.in
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
+description: ""
 keyword: "Tech Reflections, D365, D365 FO, D365 CE, Web, JavaScript, React, PCF, PowerAddict, Power Platform, Azure, AI, Azure AI Foundry"
 url: "https://noorsyyed.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
