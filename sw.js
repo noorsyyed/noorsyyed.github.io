@@ -21,7 +21,7 @@ const PRECACHE_LIST = [
   "./js/snackbar.js",
   "./img/icon_wechat.png",
   "./img/avatar-hux.jpg",
-  "./img/home-bg.jpeg", // updated from "./img/home-bg.jpg"
+  "./svg/home-bg.svg", // updated from "./img/home-bg.jpg"
   "./img/404-bg.jpg",
   "./css/hux-blog.min.css",
   "./css/bootstrap.min.css"

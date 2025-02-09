@@ -1,7 +1,7 @@
 ---
 layout:       post
 title:        "SSRS Reports in D365 CE"
-subtitle:     ""
+subtitle:     "Classic way to reporting in D365 CE but still effective"
 date:         2023-08-12 12:00:00
 author:       "noor"
 header-style: text
